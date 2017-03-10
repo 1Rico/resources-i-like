@@ -46,8 +46,6 @@
   * [Learn Python - Free Interactive Python Tutorial](https://learnpython.org)
   * [Learn Python the Hard Way](https://learnpythonthehardway.org/book)
   * [Codecademy Learn Python](https://www.codecademy.com/learn/python)
- 
-
 
 ### PHP Packages For Everyone
   * [Crawler Detector - PHP Library that detects over 390 bots/crawlers/spiders](https://github.com/JayBizzle/Crawler-Detect)
@@ -91,6 +89,9 @@
 ## JavaScript
   * [watchmecode.net](https://sub.watchmecode.net/)
   * [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
+  * [ECMAScript® Language Specification - 5.1](http://www.ecma-international.org/ecma-262/5.1/)
+  * [ECMAScript 6 Language Specification (ES2015)](http://www.ecma-international.org/ecma-262/6.0/)
+  * [ECMAScript 7 Language Specification (ES2016)](http://www.ecma-international.org/ecma-262/7.0/)
   * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
   * [Single Piece Of Javascript on Hacker News](http://blog.watchandcode.com/2016/03/17/the-single-piece-of-javascript-on-hacker-news/?utm_content=buffer89633&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   * [Simplified JS Jargon](http://jargon.js.org/)
@@ -111,6 +112,7 @@
   * [A glossary of modern JavaScript concepts - Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
   * [Webpack is not the only way - Introducing Fusebox](https://medium.com/fusebox/webpack-is-not-the-only-way-6ddb67e99be9#.o1x67tavo)
   * [JavaScript's journey through 2016](http://developer.telerik.com/topics/web-development/javascripts-journey-2016/)
+  * [A detailed introduction to Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
@@ -167,6 +169,15 @@
   * [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
   * [The Complete Introduction to React - Version 1](https://btholt.github.io/complete-intro-to-react-v1/)
   * [The Complete Introduction to React - Version 2](https://btholt.github.io/complete-intro-to-react/all.html)
+  * [ReactJS Authentication Tutorial](https://auth0.com/blog/reactjs-authentication-tutorial)
+  * [How to build a lightweight Clone of Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
+  * [How does React decide to re-render a component?](http://lucybain.com/blog/2017/react-js-when-to-rerender/)
+  * [Functional SetState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.ezv0onhhn)
+  * [How to use Redux on highly scalable JavaScript Applications](https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38#.s2y7315jw)
+  * [How to better organize your React applications](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1#.q0xovz4ue)
+  
+ ### Specific Resources for React Native
+  * [The essential boilerplate to authenticate users on your react native app](https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.7gfgzbzif)
 
 ### JQuery
 
@@ -355,6 +366,7 @@
   * [The Software Developer's Library: A treasure trive of books for people who love code](https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.5xcdwzaam)
   * [Learn to code, 13 tips that could save you years of effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.j5wmlp7gp)
   * [Getting to 10x Results. What any developer can learn from the best!](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef#.1b1w14tq3)
+  * [How to become a better developer by coding less](https://www.sitepoint.com/how-to-become-a-better-developer-by-coding-less/)
   
 ## Developer Inspiring Stories 
   * [Sebastian Mckenzie's 2015 In Review](https://medium.com/@sebmck/2015-in-review-51ac7035e272#.f5u4kzhjg)
@@ -437,6 +449,7 @@
 * [Strategies for Organizing Code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33#.e66qd6273)
 * [Designing great API docs](http://blog.parse.com/learn/engineering/designing-great-api-docs/)
 * [Why every element of SOLID is wrong](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong)
+* [What makes a Senior Software Engineer](https://dev.to/klnusbaum/what-makes-a-senior-software-engineer)
 
 ## Nice & Terrific Hacks
 * [Slack Quick Switcher Hack](https://gist.github.com/benvan/9111039)
@@ -456,11 +469,16 @@
 * [Offline first with Service Worker - Part 1](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
 * [Instant Loading with IndexedDB -  Part 2](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
 * [Push Notifications on the Web - Part 3](https://bitsofco.de/bitsofcode-pwa-part-3-push-notifications/)
+* [Send messages when you are back online with service workers and background sync](https://www.twilio.com/blog/2017/02/send-messages-when-youre-back-online-with-service-workers-and-background-sync.html)
+* [Getting started with the web share API](https://deanhume.com/Home/BlogPost/getting-started-with-the-web-share-api/10156)
 
 ## Security
 * [A definitive guide to Form based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
 * [Elaborate Security Guide For Developers](https://github.com/FallibleInc/security-guide-for-developers)
 * [Cross Site Request Forgery is dead](https://scotthelme.co.uk/csrf-is-dead/)
+
+## Authentication
+ * [Auth Boss](https://github.com/teesloane/Auth-Boss)
 
 ## How can I thank you?
 
